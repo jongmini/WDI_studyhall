@@ -1,3 +1,4 @@
+
 puts "Enter a number, a + or - sign, then another number"
 numb1 = gets.to_i
 operator = gets.chomp
